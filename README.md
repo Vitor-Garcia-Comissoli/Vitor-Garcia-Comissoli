@@ -1,10 +1,10 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi, I'm Vítor Garcia Comissoli</h1>
-<h3 align="center">A passionate Statistics and Data Science undergraduate student from São Paulo - Brazil</h3>  
+<h3 align="center">A passionate Statistics and Data Science undergraduate student from São Paulo, Brazil</h3>  
 <img align="right" alt="Coding" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif">  
 
-- 📚 I’m currently studying for a **Bachelor’s Degree in Statistics** at **IME USP - University of São Paulo**
+- 📚 I’m currently studying for a **Bachelor’s Degree in Statistics** at **IME USP** (Institute of Mathematics and Statistics, University of São Paulo)
 
 - 🔬 I’m a **Researcher** and **Programmer** in **Urban Acoustics** at **FAU USP**
 
@@ -23,9 +23,10 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitor-garcia-comissoli&show_icons=true&locale=en&layout=compact" alt="vitor-garcia-comissoli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitor-garcia-comissoli&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vitor-garcia-comissoli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitor-garcia-comissoli&show_icons=true&locale=en" alt="vitor-garcia-comissoli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitor-garcia-comissoli&show_icons=true&theme=tokyonight&locale=en" alt="vitor-garcia-comissoli" /></p>
+
 <!--
 **Vitor-Garcia-Comissoli/Vitor-Garcia-Comissoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
