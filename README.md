@@ -6,7 +6,7 @@
 
 - 📚 I’m currently studying for a **Bachelor’s Degree in Statistics** at **IME USP** (Institute of Mathematics and Statistics, University of São Paulo)
 
-- 🔬 I’m a **Researcher** and **Programmer** in **Urban Acoustics** at **FAU USP**
+- 🔬 I’ve also previously worked both as a **Researcher** and **Programmer** in **Urban Acoustics** at **FAU USP**, as well as a **Data Analytcs Intern** at **Maxxi**
 
 - 📫 You can reach me at **vitor.comissoli@gmail.com**
 
