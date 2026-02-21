@@ -4,7 +4,8 @@
 <h3 align="center">A passionate Statistics and Data Science professional from São Paulo, Brazil</h3>  
 <img align="right" alt="Coding" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif">  
 
-- 🎓 I have a **Bachelor’s Degree in Statistics** at **IME USP** (Institute of Mathematics and Statistics and Computer Science, University of São Paulo)
+- 🎓 I have a **Bachelor’s Degree in Statistics** at **IME USP**  
+(Institute of Mathematics and Statistics and Computer Science, University of São Paulo)
 
 - 🔬 I’ve also previously worked both as a **Researcher** and **Programmer** in **Urban Acoustics** at **FAU USP**, as well as a **Data Analytcs Intern** at **Maxxi** and as a **Data Team Lead** at **IME Jr**
 
