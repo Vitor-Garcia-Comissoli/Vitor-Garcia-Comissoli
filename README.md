@@ -20,6 +20,7 @@
 -->
 
 <div>
+  <a href="https://vitor-garcia-comissoli.github.io/Personal-Website/" target="_blank"><img src="https://img.shields.io/badge/Website-%23a476ff?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/v%C3%ADtor-garcia-comissoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="http://lattes.cnpq.br/6941576251239723" target="_blank"><img src="https://img.shields.io/badge/Lattes-05244D?style=for-the-badge&logo=lattes&logoColor=white" target="_blank"></a>
   <a href="https://orcid.org/0009-0006-7740-8137" target="_blank"><img src="https://img.shields.io/badge/Orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
