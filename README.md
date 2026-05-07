@@ -29,13 +29,13 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</div>
+</p>
 
 <!--
 **Vitor-Garcia-Comissoli/Vitor-Garcia-Comissoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
