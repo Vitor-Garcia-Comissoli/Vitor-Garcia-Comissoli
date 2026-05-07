@@ -29,13 +29,13 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
+    <td style="border: none;"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/></a></td>
+    <td style="border: none;"><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" height="40"/></a></td>
+    <td style="border: none;"><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/></a></td>
+    <td style="border: none;"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/></a></td>
+    <td style="border: none;"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
   </tr>
 </table>
 
