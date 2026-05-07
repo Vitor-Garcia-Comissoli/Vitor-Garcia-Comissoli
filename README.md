@@ -29,7 +29,7 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
+<div align="left" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/></a>
