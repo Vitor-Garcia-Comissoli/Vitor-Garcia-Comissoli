@@ -1,4 +1,4 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://rishavchanda.io)
+<img align="center" alt="Coding" width="1440" src="https://frogdesign.nyc3.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif">
 
 <h1 align="center">Hi, I'm Vítor Garcia Comissoli</h1>
 <h3 align="center">A passionate Statistics and Data Science professional from São Paulo, Brazil</h3>  
