@@ -7,6 +7,8 @@
 - 🎓 I have a **Bachelor’s Degree in Statistics** from **IME USP**  
 (Institute of Mathematics, Statistics and Computer Science, University of São Paulo)
 
+- 🎓 I'm currently enrolled in a **Postgraduate Program in Data Science and Decision-making** at **Insper** (Institute of Education and Research)
+
 - 🔬 I’ve also previously worked both as a **Researcher** and **Programmer** in **Urban Acoustics** at **FAU USP**, as well as a **Data Analytcs Intern** at **Maxxi** and as a **Data Team Lead** at **IME Jr**
 
 - 📫 You can reach me at **vitor.comissoli@gmail.com**
